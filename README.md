@@ -44,7 +44,7 @@ Construir un entorno 100% reproducible en Docker con PostgreSQL 15 para una empr
 ## 4. Guía Paso a Paso: Preparar, Iniciar y Validar el Entorno
 
 ### Paso 1: Clonar el repositorio y configurar variables de entorno
-    git clone <URL_DE_TU_REPOSITORIO>
+    git clone https://github.com/jhonnyelithAZ/laboratorio-data-engineering.git
     cd laboratorio-data-engineering
     cp .env.example .env
 
